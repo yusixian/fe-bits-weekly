@@ -11,10 +11,14 @@
             "id": "a58c173cda7b3413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922,
-    "collapsed": true
+    "width": 275.5110321044922
   },
   "right": {
     "id": "9a7768998386359a",
@@ -193,8 +196,8 @@
   },
   "active": "a58c173cda7b3413",
   "lastOpenFiles": [
-    "_drafts/FE Bits 前端周周谈 Vol.1｜Hello World、TanStack DB 首个 Beta 版发布.md",
     "_posts/FE Bits 前端周周谈 Vol.1｜Hello World、TanStack DB 首个 Beta 版发布.md",
+    "_drafts/FE Bits 前端周周谈 Vol.1｜Hello World、TanStack DB 首个 Beta 版发布.md",
     "_posts",
     "_drafts/Flutter 学习小记.md",
     "_drafts/Nest 学习记录（一） 了解、安装与使用.md",
