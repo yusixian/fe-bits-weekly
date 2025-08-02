@@ -11,14 +11,10 @@
             "id": "a58c173cda7b3413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922
+    "width": 275.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "9a7768998386359a",
@@ -176,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,14 +187,16 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "a58c173cda7b3413",
   "lastOpenFiles": [
+    "_drafts/FE Bits 前端周周谈 Vol.1｜Hello World、TanStack DB 首个 Beta 版发布.md",
+    "_posts/FE Bits 前端周周谈 Vol.1｜Hello World、TanStack DB 首个 Beta 版发布.md",
+    "_posts",
     "_drafts/Flutter 学习小记.md",
-    "_drafts/Untitled.md",
     "_drafts/Nest 学习记录（一） 了解、安装与使用.md",
     "_drafts/2025-08-02_15-08-92.md",
     "templates/script/ss_new_post_draft.md",
@@ -238,7 +238,6 @@
     "templates/script",
     "templates/basic",
     "templates",
-    "_tasks",
-    "_posts/tools"
+    "_tasks"
   ]
 }
