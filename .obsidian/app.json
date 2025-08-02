@@ -1,0 +1,19 @@
+{
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "tabSize": 4,
+  "useTab": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

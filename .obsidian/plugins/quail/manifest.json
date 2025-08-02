@@ -1,0 +1,10 @@
+{
+	"id": "quail",
+	"name": "Quaily",
+	"version": "2.0.15",
+	"minAppVersion": "1.0.0",
+	"description": "Save, publish, delivery notes via Quaily.com as newsletters and blogs.",
+	"author": "Lyric",
+	"authorUrl": "https://quaily.com",
+	"isDesktopOnly": false
+}

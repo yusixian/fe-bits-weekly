@@ -1,0 +1,12 @@
+{
+  "listID": "",
+  "listSlug": "",
+  "strictLineBreaks": true,
+  "useEnglishCmds": false,
+  "useFirstImageAsCover": false,
+  "accessToken": "",
+  "refreshToken": "",
+  "tokenExpiry": "",
+  "me": null,
+  "lists": []
+}

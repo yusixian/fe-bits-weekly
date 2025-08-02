@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "c3f80b2697e03c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea176af4721e0d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58c173cda7b3413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dc34d67fee96f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "279822a1f138cb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72be9167db32bee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53823efa6111cd07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Nest",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aea8fcd7cc33bcdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5110321044922
+  },
+  "right": {
+    "id": "9a7768998386359a",
+    "type": "split",
+    "children": [
+      {
+        "id": "94bdc19eb7c4de3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01aab9df4e1e17bb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c38e25f1166326f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "c5a243e3422cc213",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "93b6672dae15259d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "741255c1038b922e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "7328118c356ea3e9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a58c173cda7b3413",
+  "lastOpenFiles": [
+    "_drafts/Flutter 学习小记.md",
+    "_drafts/Untitled.md",
+    "_drafts/Nest 学习记录（一） 了解、安装与使用.md",
+    "_drafts/2025-08-02_15-08-92.md",
+    "templates/script/ss_new_post_draft.md",
+    "templates/script/ss_cos-daily.md",
+    "_infos/Post Info.md",
+    "_infos/Todo Info.md",
+    "README.md",
+    "assets/Pasted image 20250802153050.png",
+    "assets",
+    "_drafts/Vercel Postgres 简明教程.md",
+    "templates/basic/table.md",
+    "Untitled",
+    "_pages/friends/index.md",
+    "_daily/2025/08/2025-08-02_Sat.md",
+    "_daily/2025/08",
+    "_daily/2025",
+    "_drafts/NestJS 小记之优秀项目分析与模块实践.md",
+    "[Fetching.md",
+    "_tasks/Todo.md",
+    "_tasks/归档.md",
+    "_daily/2023/06/2023-06-12_周一.md",
+    "assets/Pasted image 20230710211136.png",
+    "assets/Pasted image 20230710210404.png",
+    "assets/Pasted image 20230710205411.png",
+    "assets/Pasted image 20230710204859.png",
+    "assets/Pasted image 20230710204642.png",
+    "assets/Pasted image 20230710204551.png",
+    "assets/Pasted image 20230710204443.png",
+    "assets/Screenshot_2023-06-20-14-37-23-383_host.exp.expon.jpg",
+    "assets/Pasted image 20230710210301.png",
+    "_posts/note/front-end/Floating UI 使用经验分享 - Popover.md",
+    "_posts/note/front-end/Floating UI 使用经验分享 - Dialog.md",
+    "_posts/note/front-end/Tailwind-Update-v3-3.md",
+    "_posts/note/front-end/2023 前端人的 RN 学习小记 —— 使用Expo创建 RN 项目.md",
+    "_daily/2023/06/2023-06-16_周五.md",
+    "Screenshot_2023-06-20-14-37-42-694_host.exp.expon 1.jpg.md",
+    "Pasted image 20230620140008.png.md",
+    "_daily/2023/06",
+    "templates/script",
+    "templates/basic",
+    "templates",
+    "_tasks",
+    "_posts/tools"
+  ]
+}

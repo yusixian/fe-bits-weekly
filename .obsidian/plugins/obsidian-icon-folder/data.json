@@ -1,0 +1,66 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasToolbox",
+      "LiInfo",
+      "LiCalendarDays",
+      "FasPager",
+      "FasF"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "SiBytedance",
+        "rule": "_posts/note/bytedance-note\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "_posts/coding-train": "SiVisualstudiocode",
+  "_posts/coding-train/bytedance-code-train.md": "SiBytedance",
+  "_posts/life": "SiAdafruit",
+  "_posts/note": "IbDocument",
+  "_posts/note/algorithm": "SiThealgorithms",
+  "_posts/note/back-end": "FasCode",
+  "_posts/note/cs-basics": "RiComputer-fill",
+  "_posts/note/data-structure": "SiDatabricks",
+  "_posts/note/front-end": "FasF",
+  "_posts/note/front-end/javascript": "SiJavascript",
+  "_posts/note/front-end/react": "SiReact-white",
+  "_posts/note/front-end/react/Redux学习之路（一）Redux三原则、createSore原理及实现": "LiImage",
+  "_posts/project": "FasFolder",
+  "_posts/review": "SiAlibabacloud",
+  "_posts/tools": "FasToolbox",
+  "_posts": "SiBlogger",
+  "_infos": "LiInfo",
+  "_daily": "LiCalendarDays",
+  "_pages": "FasPager",
+  "_tasks": "RiTaskFill",
+  "_posts/note/bytedance-note": "SiBytedance"
+}
