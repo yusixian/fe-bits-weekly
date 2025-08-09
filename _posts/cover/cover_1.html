@@ -4,7 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>FE Bits 前端周周谈</title>
-    <link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/hcqyt/dist/ChillRoundFBold/result.css" />
+    <link
+      rel="stylesheet"
+      href="https://chinese-fonts-cdn.deno.dev/packages/hcqyt/dist/ChillRoundFBold/result.css"
+    />
     <link
       href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&family=Raleway:wght@300;400;600&display=swap"
       rel="stylesheet"
@@ -21,7 +24,7 @@
         align-items: center;
         min-height: 100vh;
         background: linear-gradient(135deg, #0a1929 0%, #122b44 100%);
-        font-family: '寒蝉全圆体 Bold', 'Raleway', sans-serif;
+        font-family: "寒蝉全圆体 Bold", "Raleway", sans-serif;
         padding: 20px;
         overflow: hidden;
       }
@@ -61,7 +64,7 @@
 
       /* 标题样式 */
       .title {
-        font-family: '寒蝉全圆体 Bold', 'Montserrat', sans-serif;
+        font-family: "寒蝉全圆体 Bold", "Montserrat", sans-serif;
         font-weight: 300;
         font-size: 24px;
         color: rgba(180, 220, 255, 0.7);
@@ -73,7 +76,7 @@
       }
 
       .title::after {
-        content: '';
+        content: "";
         position: absolute;
         bottom: -8px;
         left: 0;
@@ -83,7 +86,7 @@
       }
 
       .main-title {
-        font-family: '寒蝉全圆体 Bold', 'Montserrat', sans-serif;
+        font-family: "寒蝉全圆体 Bold", "Montserrat", sans-serif;
         font-weight: 600;
         font-size: 56px;
         color: #e6f1ff;
@@ -101,7 +104,7 @@
       }
 
       .subtitle {
-        font-family: '寒蝉全圆体 Bold', 'Montserrat', sans-serif;
+        font-family: "寒蝉全圆体 Bold", "Montserrat", sans-serif;
         font-weight: 400;
         font-size: 70px;
         color: rgba(180, 220, 255, 0.85);
@@ -109,7 +112,7 @@
       }
 
       .highlight {
-        font-family: 'Raleway', '寒蝉全圆体 Bold', sans-serif;
+        font-family: "Raleway", "寒蝉全圆体 Bold", sans-serif;
         color: #5d8aa8;
         font-weight: 400;
       }
@@ -136,7 +139,7 @@
       }
 
       .vol-info {
-        font-family: 'Montserrat', '寒蝉全圆体 Bold', sans-serif;
+        font-family: "Montserrat", "寒蝉全圆体 Bold", sans-serif;
         font-weight: 300;
       }
 
@@ -189,18 +192,38 @@
     <div class="card-container">
       <!-- 背景装饰层 -->
       <div class="background-layer">
-        <svg width="100%" height="100%" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice">
+        <svg
+          width="100%"
+          height="100%"
+          viewBox="0 0 800 450"
+          preserveAspectRatio="xMidYMid slice"
+        >
           <!-- 背景网格 -->
           <defs>
-            <pattern id="smallGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-              <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(80, 130, 180, 0.08)" stroke-width="0.5" />
+            <pattern
+              id="smallGrid"
+              width="40"
+              height="40"
+              patternUnits="userSpaceOnUse"
+            >
+              <path
+                d="M 40 0 L 0 0 0 40"
+                fill="none"
+                stroke="rgba(80, 130, 180, 0.08)"
+                stroke-width="0.5"
+              />
             </pattern>
             <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
               <stop offset="0%" stop-color="#0a1929" stop-opacity="0.8" />
               <stop offset="100%" stop-color="#122b44" stop-opacity="0.8" />
             </linearGradient>
             <filter id="noise">
-              <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" result="noise" />
+              <feTurbulence
+                type="fractalNoise"
+                baseFrequency="0.8"
+                numOctaves="3"
+                result="noise"
+              />
               <feColorMatrix type="saturate" values="0" />
               <feBlend in="SourceGraphic" in2="noise" mode="multiply" />
             </filter>
@@ -210,8 +233,24 @@
           <rect width="100%" height="100%" fill="url(#smallGrid)" />
 
           <!-- 抽象几何图形 -->
-          <circle cx="700" cy="100" r="50" fill="none" stroke="rgba(93, 138, 168, 0.1)" stroke-width="1" class="rotate" />
-          <circle cx="700" cy="100" r="70" fill="none" stroke="rgba(93, 138, 168, 0.07)" stroke-width="1" class="rotate" />
+          <circle
+            cx="700"
+            cy="100"
+            r="50"
+            fill="none"
+            stroke="rgba(93, 138, 168, 0.1)"
+            stroke-width="1"
+            class="rotate"
+          />
+          <circle
+            cx="700"
+            cy="100"
+            r="70"
+            fill="none"
+            stroke="rgba(93, 138, 168, 0.07)"
+            stroke-width="1"
+            class="rotate"
+          />
 
           <circle
             cx="150"
@@ -224,19 +263,45 @@
             transform="rotate(45, 150, 350)"
           />
 
-          <polygon points="650,400 700,380 720,420" fill="none" stroke="rgba(93, 138, 168, 0.1)" stroke-width="1" />
+          <polygon
+            points="650,400 700,380 720,420"
+            fill="none"
+            stroke="rgba(93, 138, 168, 0.1)"
+            stroke-width="1"
+          />
 
           <!-- 装饰线条 -->
-          <path d="M0,200 Q200,150 400,250 T800,180" fill="none" stroke="rgba(93, 138, 168, 0.1)" stroke-width="1" />
-          <path d="M0,300 Q300,250 500,350 T800,280" fill="none" stroke="rgba(180, 220, 255, 0.07)" stroke-width="1" />
+          <path
+            d="M0,200 Q200,150 400,250 T800,180"
+            fill="none"
+            stroke="rgba(93, 138, 168, 0.1)"
+            stroke-width="1"
+          />
+          <path
+            d="M0,300 Q300,250 500,350 T800,280"
+            fill="none"
+            stroke="rgba(180, 220, 255, 0.07)"
+            stroke-width="1"
+          />
         </svg>
       </div>
 
       <!-- 前景装饰元素 -->
       <div class="decorations">
         <!-- 左上角装饰 -->
-        <svg width="200" height="200" viewBox="0 0 200 200" style="position: absolute; top: -60px; left: -60px" class="pulse">
-          <path d="M50,50 Q100,0 150,50 T250,50" fill="none" stroke="rgba(93, 138, 168, 0.15)" stroke-width="1" />
+        <svg
+          width="200"
+          height="200"
+          viewBox="0 0 200 200"
+          style="position: absolute; top: -60px; left: -60px"
+          class="pulse"
+        >
+          <path
+            d="M50,50 Q100,0 150,50 T250,50"
+            fill="none"
+            stroke="rgba(93, 138, 168, 0.15)"
+            stroke-width="1"
+          />
           <circle cx="100" cy="100" r="5" fill="rgba(180, 220, 255, 0.2)" />
           <circle cx="120" cy="80" r="3" fill="rgba(180, 220, 255, 0.2)" />
           <circle cx="80" cy="120" r="4" fill="rgba(180, 220, 255, 0.2)" />
@@ -247,7 +312,12 @@
           width="300"
           height="300"
           viewBox="0 0 300 300"
-          style="position: absolute; bottom: -100px; right: -100px; opacity: 0.5"
+          style="
+            position: absolute;
+            bottom: -100px;
+            right: -100px;
+            opacity: 0.5;
+          "
           class="rotate"
         >
           <circle
@@ -259,15 +329,48 @@
             stroke-width="1"
             stroke-dasharray="5,5"
           />
-          <circle cx="150" cy="150" r="80" fill="none" stroke="rgba(180, 220, 255, 0.05)" stroke-width="1" />
-          <line x1="150" y1="30" x2="150" y2="270" stroke="rgba(180, 220, 255, 0.05)" stroke-width="0.5" />
-          <line x1="30" y1="150" x2="270" y2="150" stroke="rgba(180, 220, 255, 0.05)" stroke-width="0.5" />
+          <circle
+            cx="150"
+            cy="150"
+            r="80"
+            fill="none"
+            stroke="rgba(180, 220, 255, 0.05)"
+            stroke-width="1"
+          />
+          <line
+            x1="150"
+            y1="30"
+            x2="150"
+            y2="270"
+            stroke="rgba(180, 220, 255, 0.05)"
+            stroke-width="0.5"
+          />
+          <line
+            x1="30"
+            y1="150"
+            x2="270"
+            y2="150"
+            stroke="rgba(180, 220, 255, 0.05)"
+            stroke-width="0.5"
+          />
         </svg>
 
         <!-- 浮动粒子 -->
-        <svg width="100%" height="100%" viewBox="0 0 800 450" style="position: absolute; top: 0; left: 0">
+        <svg
+          width="100%"
+          height="100%"
+          viewBox="0 0 800 450"
+          style="position: absolute; top: 0; left: 0"
+        >
           <!-- 浮动粒子 -->
-          <circle cx="200" cy="150" r="2" fill="#5d8aa8" class="floating" style="animation-delay: 0s" />
+          <circle
+            cx="200"
+            cy="150"
+            r="2"
+            fill="#5d8aa8"
+            class="floating"
+            style="animation-delay: 0s"
+          />
           <circle
             cx="600"
             cy="250"
@@ -276,7 +379,14 @@
             class="floating"
             style="animation-delay: 1s; animation-duration: 7s"
           />
-          <circle cx="400" cy="100" r="1" fill="#8ab3cf" class="floating" style="animation-delay: 2s; animation-duration: 9s" />
+          <circle
+            cx="400"
+            cy="100"
+            r="1"
+            fill="#8ab3cf"
+            class="floating"
+            style="animation-delay: 2s; animation-duration: 9s"
+          />
           <circle
             cx="300"
             cy="350"
@@ -310,13 +420,19 @@
           <div class="title">不争高低 · 只作播报</div>
           <div class="main-title-container">
             <h1 class="main-title">FE Bits 前端周周谈 Vol.1</h1>
-            <div class="subtitle"><span class="highlight">Hello World</span> · TanStack DB 首个 Beta 版发布</div>
+            <div class="subtitle">
+              <span class="highlight">Hello World</span> · TanStack DB 首个 Beta
+              版发布
+            </div>
           </div>
         </div>
 
         <div class="footer">
           <div class="vol-info">Vol.1</div>
-          <div>is 包被钓鱼劫持，Stylus 惨遭“连坐”乌龙被误删（现已复活），MDN 要过 20 岁生日啦！</div>
+          <div>
+            is 包被钓鱼劫持，Stylus 惨遭“连坐”乌龙被误删（现已复活），MDN 要过
+            20 岁生日啦！
+          </div>
         </div>
       </div>
     </div>
