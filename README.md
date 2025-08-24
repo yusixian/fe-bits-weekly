@@ -21,6 +21,7 @@
 
 ## 8 月
 
+- [FE Bits Vol.4 ｜ Next 15.5、RN 0.81、几个顺手工具](https://news.cosine.ren/p/vol-4)
 - [FE Bits Vol.3 ｜ CSS attr() 类型化进化，PostCSS 复盘 12 年](https://news.cosine.ren/p/vol-3)
 - [FE Bits 前端周周谈 Vol.2 ｜ V8 提速 JSON.stringify 2x，Vite 周下载首超 Webpack](https://news.cosine.ren/p/volume-two)
 - [FE Bits 前端周周谈 Vol.1 ｜ Hello World、TanStack DB 首个 Beta 版发布| FE Bits 前端周周谈](https://news.cosine.ren/p/1-hello-world)
