@@ -19,6 +19,10 @@
 
 # 2025
 
+## 9 月
+
+- [FE Bits Vol.6 ｜变与不变，Chrome 17 周年与 CSS Mixins 草案](https://news.cosine.ren/p/vol-6)
+
 ## 8 月
 
 - [FE Bits Vol.5 ｜ Nx 包被投毒、ESLint 多线程 Linting 和 Firefox 实验性 PWA](https://news.cosine.ren/p/vol-5)
