@@ -21,6 +21,7 @@
 
 ## 9 月
 
+- [FE Bits Vol.7 ｜ chalk 和 debug 等 npm 包安全警告；Remotion 赞助 Mediabunny](https://news.cosine.ren/p/vol-7)
 - [FE Bits Vol.6 ｜变与不变，Chrome 17 周年与 CSS Mixins 草案](https://news.cosine.ren/p/vol-6)
 
 ## 8 月
