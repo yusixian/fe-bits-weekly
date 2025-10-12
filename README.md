@@ -19,8 +19,13 @@
 
 # 2025
 
+## 10 月
+
+- [FE Bits Vol.10 ｜ React Compiler v1.0 发布、React 成立基金会，Vite 纪录片与 Vite+ 上线](https://news.cosine.ren/p/vol-10)
+
 ## 9 月
 
+- [FE Bits Vol.9 ｜ Chrome DevTools 推出 MCP，Nuxt UI Pro 开源免费](https://news.cosine.ren/p/vol-9)
 - [FE Bits Vol.8 ｜ PyCon 之行、Cloudflare 大 Bug 与 NPM 沙虫警报](https://news.cosine.ren/p/vol-8)
 - [FE Bits Vol.7 ｜ chalk 和 debug 等 npm 包安全警告；Remotion 赞助 Mediabunny](https://news.cosine.ren/p/vol-7)
 - [FE Bits Vol.6 ｜变与不变，Chrome 17 周年与 CSS Mixins 草案](https://news.cosine.ren/p/vol-6)
