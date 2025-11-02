@@ -21,6 +21,7 @@
 
 ## 10 月
 
+- [FE Bits Vol.13 ｜ TypeScript 首次成为 GitHub 最常用语言、VoidZero A 轮融资 1250 万美元](https://news.cosine.ren/p/vol-13)
 - [FE Bits Vol.12 ｜ Next.js 16 发布、Docusaurus 3.9 AI 搜索、ChatGPT Atlas 发布](https://news.cosine.ren/p/vol-12)
 - [FE Bits Vol.11 ｜ React Native 0.82 新架构落地、Bun 1.3 全栈运行时](https://news.cosine.ren/p/vol-11)
 - [FE Bits Vol.10 ｜ React Compiler v1.0 发布、React 成立基金会，Vite 纪录片与 Vite+ 上线](https://news.cosine.ren/p/vol-10)
