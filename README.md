@@ -19,6 +19,10 @@
 
 # 2025
 
+## 11 月
+
+- [FE Bits Vol.14 ｜ Chrome 支持左右分屏、npm 强制 2FA、Rspack 1.6](https://news.cosine.ren/p/vol-14)
+
 ## 10 月
 
 - [FE Bits Vol.13 ｜ TypeScript 首次成为 GitHub 最常用语言、VoidZero A 轮融资 1250 万美元](https://news.cosine.ren/p/vol-13)
