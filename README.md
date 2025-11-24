@@ -21,7 +21,8 @@
 
 ## 11 月
 
-- [FE Bits Vol.15 ｜ Chrome 宽高动画重排优化，Node Type Stripping 稳定](https://news.cosine.ren/p/vol-14)
+- [FE Bits Vol.16 ｜ Cloudflare 事故报告出炉，CSSWG 确认 Masonry 布局语法 grid-lanes](https://news.cosine.ren/p/vol-16)
+- [FE Bits Vol.15 ｜ Chrome 宽高动画重排优化，Node Type Stripping 稳定](https://news.cosine.ren/p/vol-15)
 - [FE Bits Vol.14 ｜ Chrome 支持左右分屏、npm 强制 2FA、Rspack 1.6](https://news.cosine.ren/p/vol-14)
 
 ## 10 月
