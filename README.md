@@ -19,6 +19,10 @@
 
 # 2025
 
+## 12 月
+
+- [FE Bits Vol.18 ｜ RSC 爆 CVE-10.0；Bun 被 Anthropic 收购](https://blog.cosine.ren/post/weekly-18)
+
 ## 11 月
 
 - [FE Bits Vol.17 ｜ WebGPU 主流浏览器全支持，AntD 6 正式发布](https://blog.cosine.ren/post/weekly-17)
