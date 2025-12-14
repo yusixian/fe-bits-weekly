@@ -21,6 +21,7 @@
 
 ## 12 月
 
+- [FE Bits Vol.19 ｜ 站点新功能与 React 披露两个新的 RSC 漏洞](https://blog.cosine.ren/post/weekly-19)
 - [FE Bits Vol.18 ｜ RSC 爆 CVE-10.0；Bun 被 Anthropic 收购](https://blog.cosine.ren/post/weekly-18)
 
 ## 11 月
