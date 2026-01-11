@@ -15,7 +15,15 @@
 
 更新时间期望是在每周天，若本周内容少，则可能合并到下一期作为双周刊～推荐订阅本周刊的 [RSS](https://blog.cosine.ren/rss.xml)。
 
-公开群聊评论区：[@cosine_public](https://t.me/cosine_public) 欢迎加入，也可在群里投稿自己的文章~
+QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
+
+欢迎加入，也可在群里投稿自己的文章~
+
+# 2026
+
+## 1 月
+
+- [FE Bits Vol.22 | CSS @scope 全面可用，ViteLand 12 月回顾](https://blog.cosine.ren/post/weekly-22)
 
 # 2025
 
