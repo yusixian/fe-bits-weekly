@@ -15,7 +15,7 @@ categories:
 > QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe) \
 > 本周刊文章内容同时也开源在 [fe-bits-weekly](https://github.com/yusixian/fe-bits-weekly)，欢迎关注。
 
-今天是 2025 年 1 月 18 日，星期天。
+今天是 2026 年 1 月 18 日，星期天。
 
 Moe Copy AI 发了 [v0.2.1](https://github.com/yusixian/moe-copy-ai/releases/tag/0.2.1) 和 [v0.2.2](https://github.com/yusixian/moe-copy-ai/releases/tag/0.2.2)，做了国际化，将悬浮球的功能抽取至侧边栏单页抓取 tab 了，内容提取下也加了 AI 总结按钮。
 
@@ -41,6 +41,7 @@ Moe Copy AI 发了 [v0.2.1](https://github.com/yusixian/moe-copy-ai/releases/tag
 - [隆重推出：React 最佳实践](https://vercel.com/blog/introducing-react-best-practices)：Vercel 团队将 _“十余年 React 和 Next.js 优化经验”_ 提炼成了[一套 Markdown 文件](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices/rules)， 旨在供 Claude Code 等代码助手使用，当然您也可以自行阅读。其目标是帮助这些助手编写更优质的 React 代码，而无需过多指导。
   - 可以通过 `npx add-skill vercel-labs/agent-skills` 直接安装
 - [The Astro Technology Company joins Cloudflare | Astro](https://astro.build/blog/joining-cloudflare/)：Astro 框架背后的公司 The Astro Technology Company 宣布加入 Cloudflare，以获取更多资源并专注于框架核心开发，承诺保持开源和平台中立。（真好，我很喜欢 astro 写网站的感觉）
+
   - 并且 [Astro 回顾了过去一年](https://astro.build/blog/year-in-review-2025/)，展望了 2025 年的更新、变化和新增功能吗，并且[发布了 Astro 6 的 beta 版本。](https://astro.build/blog/astro-6-beta/)
 
 - ["You should never build a CMS" | Sanity](https://www.sanity.io/blog/you-should-never-build-a-cms?ref=ww-rss)：Sanity 回应 Cursor 将 CMS 迁移至 Markdown 的热议，分享了许多使用 CMS 的理由。
@@ -77,6 +78,7 @@ Moe Copy AI 发了 [v0.2.1](https://github.com/yusixian/moe-copy-ai/releases/tag
   由于 CSS 和 JS 的进步，越来越多的技术我们不再需要了，Remy Sharp 分享了一份我们可以抛弃的技术清单。
 
 1. CSS 布局与样式增强
+
    - 使用 `text-underline-offset` 属性轻松控制文本下划线的距离，无需再用复杂的伪元素模拟。
    - 在 Flexbox 布局中直接使用 `gap` 属性，告别过去需要通过处理 `margin` (外边距) 来设置间距的繁琐操作。
    - 采用原生 CSS 嵌套 (Nesting) 和在选择器内嵌套媒体查询 (Media Queries)，使样式结构更清晰且无需预处理器。
@@ -84,6 +86,7 @@ Moe Copy AI 发了 [v0.2.1](https://github.com/yusixian/moe-copy-ai/releases/tag
    - 使用 `content: open-quote` 结合 `q` 标签实现根据语言自动适配的本地化引号。
 
 2. JavaScript 语法与交互优化
+
    - 采用可选的 `catch` 绑定 (Optional catch binding)，在不需要错误对象时直接写 `catch { ... }`，避免定义未使用的变量。
    - 指针事件 (Pointer Events) 的普及使得开发者可以用一套逻辑替代旧有的 `click` (点击) 和 `touch` (触摸) 事件的混合逻辑。
    - 弃用旧的性能黑科技，如使用 `~~` 或 `| 0` 取整，现代引擎下 `Math.floor()` 的可读性更高且性能不再是瓶颈。

@@ -16,7 +16,7 @@ categories:
 > QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe) \
 > 本周刊文章内容同时也开源在 [fe-bits-weekly](https://github.com/yusixian/fe-bits-weekly)，欢迎关注。
 
-今天是 2025 年 1 月 11 日，星期天。
+今天是 2026 年 1 月 11 日，星期天。
 
 年终总结在写了（还在写？）
 
