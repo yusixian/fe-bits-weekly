@@ -23,6 +23,7 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 ## 1 月
 
+- [FE Bits Vol.24 | Rolldown 1.0 RC、Anime.js v4.3 自动布局与 Chrome 145 100vw 滚动条感知](https://blog.cosine.ren/post/weekly-24)
 - [FE Bits Vol.23 | jQuery 4 发布，Chrome 新增垂直标签页功能，Astro 被 Cloudflare 收购](https://blog.cosine.ren/post/weekly-23)
 - [FE Bits Vol.22 | CSS @scope 全面可用，ViteLand 12 月回顾](https://blog.cosine.ren/post/weekly-22)
 
