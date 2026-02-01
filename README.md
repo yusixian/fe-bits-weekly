@@ -21,6 +21,10 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 # 2026
 
+## 2 月
+
+- [FE Bits Vol.25 | Yarn 6 将用 Rust 重写，CSS Grid Lanes 进展](https://blog.cosine.ren/post/weekly-25)
+
 ## 1 月
 
 - [FE Bits Vol.24 | Rolldown 1.0 RC、Anime.js v4.3 自动布局与 Chrome 145 100vw 滚动条感知](https://blog.cosine.ren/post/weekly-24)
