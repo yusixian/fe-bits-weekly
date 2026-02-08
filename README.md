@@ -23,6 +23,7 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 ## 2 月
 
+- [FE Bits Vol.26 | Gatsby 支持 React 19，Rspress 2.0 发布](https://blog.cosine.ren/post/weekly-26)
 - [FE Bits Vol.25 | Yarn 6 将用 Rust 重写，CSS Grid Lanes 进展](https://blog.cosine.ren/post/weekly-25)
 
 ## 1 月
