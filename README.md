@@ -21,6 +21,10 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 # 2026
 
+## 3 月
+
+- [FE Bits Vol.27 | Oxfmt Beta 发布，Chromium「CSS 漏洞」实为 UAF](https://blog.cosine.ren/post/weekly-27)
+
 ## 2 月
 
 - [FE Bits Vol.26 | Gatsby 支持 React 19，Rspress 2.0 发布](https://blog.cosine.ren/post/weekly-26)
