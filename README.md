@@ -23,6 +23,7 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 ## 3 月
 
+- [FE Bits Vol.28 | 爱酱的诞生、Vite 8.0 正式发布、Astro 6.0 上线](https://blog.cosine.ren/post/weekly-28)
 - [FE Bits Vol.27 | Oxfmt Beta 发布，Chromium「CSS 漏洞」实为 UAF](https://blog.cosine.ren/post/weekly-27)
 
 ## 2 月
