@@ -23,6 +23,7 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 ## 3 月
 
+- [FE Bits Vol.30 | TypeScript 6.0 与 Next.js 16.2 发布、Safari 26.4 新特性](https://blog.cosine.ren/post/weekly-30)
 - [FE Bits Vol.29 ｜原生 JSON 模块落地，CSS light-dark() 支持图片切换](https://blog.cosine.ren/post/weekly-29)
 - [FE Bits Vol.28 | 爱酱的诞生、Vite 8.0 正式发布、Astro 6.0 上线](https://blog.cosine.ren/post/weekly-28)
 - [FE Bits Vol.27 | Oxfmt Beta 发布，Chromium「CSS 漏洞」实为 UAF](https://blog.cosine.ren/post/weekly-27)
