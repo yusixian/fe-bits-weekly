@@ -21,6 +21,10 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 # 2026
 
+## 4 月
+
+- [FE Bits Vol.31 | axios 供应链攻击、JetStream 3.0 发布与视图过渡工具包](https://blog.cosine.ren/post/weekly-31)
+
 ## 3 月
 
 - [FE Bits Vol.30 | TypeScript 6.0 与 Next.js 16.2 发布、Safari 26.4 新特性](https://blog.cosine.ren/post/weekly-30)
