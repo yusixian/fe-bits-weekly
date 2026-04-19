@@ -23,6 +23,7 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 ## 4 月
 
+- [FE Bits Vol.32 | MUI v9 发布、TanStack RSC 新解、Google 打击后退按钮劫持](https://blog.cosine.ren/post/weekly-32)
 - [FE Bits Vol.31 | axios 供应链攻击、JetStream 3.0 发布与视图过渡工具包](https://blog.cosine.ren/post/weekly-31)
 
 ## 3 月
