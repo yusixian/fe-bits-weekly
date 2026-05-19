@@ -21,6 +21,10 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 # 2026
 
+## 5 月
+
+- [FE Bits Vol.34 | @antv npm 包供应链攻击，Tailwind v4.3 发布](https://blog.cosine.ren/post/weekly-34)
+
 ## 4 月
 
 - [FE Bits Vol.33 | Vercel 四月安全事件、sizes auto 终结响应式图片之痛](https://blog.cosine.ren/post/weekly-33)
