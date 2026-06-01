@@ -23,6 +23,7 @@ QQ 讨论小群 598022684 / [Discord 群](https://discord.gg/XzvrvNMcSe)
 
 ## 5 月
 
+- [FE Bits Vol.35 | Deno 2.8 发布，CSS 2026 新特性梳理](https://blog.cosine.ren/post/weekly-35)
 - [FE Bits Vol.34 | @antv npm 包供应链攻击，Tailwind v4.3 发布](https://blog.cosine.ren/post/weekly-34)
 
 ## 4 月
